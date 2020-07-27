@@ -1,2 +1,1 @@
-# tech-support
-Guides and Scripts
+# Guides and Scripts
